@@ -9,7 +9,7 @@ Para iniciar el proyecto, sigue estos pasos:
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando Git.
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-proyecto.git
+    https://github.com/Gerodron/react-task-manager
     ```
 
 2. **Instalar Dependencias:** Navega hasta el directorio del proyecto y utiliza Yarn para instalar todas las dependencias necesarias.
